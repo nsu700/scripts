@@ -8,3 +8,6 @@ podman
 pull-secret
 oc
 oc-mirror
+
+## Reference
+https://access.redhat.com/solutions/6994677
